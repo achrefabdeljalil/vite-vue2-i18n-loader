@@ -35,9 +35,9 @@ Then, we can write the i18n blocks in the vue component file:
   }
 }
 </i18n>
-``` 
+```
 
-We can also use import for json files 
+We can also use import for json files
 ```vue
 <i18n src="./exemple.json"></i18n>
 ```

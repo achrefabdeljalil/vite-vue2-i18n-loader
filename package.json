@@ -1,6 +1,6 @@
 {
   "name": "@jbeche/vite-vue2-i18n-loader",
-  "version": "1.0.0-2",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "files": [
     "dist"
