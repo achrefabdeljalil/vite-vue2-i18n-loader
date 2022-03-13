@@ -6,6 +6,10 @@
     "dist"
   ],
   "author": "Achref Abdeljalil",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/achrefabdeljalil/vite-vue2-i18n-loader.git"
+  },
   "license": "MIT",
   "keywords": [
     "vite",
